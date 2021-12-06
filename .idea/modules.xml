@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day01_homework/day01_homework.iml" filepath="$PROJECT_DIR$/day01_homework/day01_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_html&amp;css/day01_html&amp;css.iml" filepath="$PROJECT_DIR$/day01_html&amp;css/day01_html&amp;css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_JavaScript/day02_JavaScript.iml" filepath="$PROJECT_DIR$/day02_JavaScript/day02_JavaScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_jQuery/day03_jQuery.iml" filepath="$PROJECT_DIR$/day03_jQuery/day03_jQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_xml/day04_xml.iml" filepath="$PROJECT_DIR$/day04_xml/day04_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_servlet/day06_servlet.iml" filepath="$PROJECT_DIR$/day06_servlet/day06_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_path/day07_path.iml" filepath="$PROJECT_DIR$/day07_path/day07_path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08_jsp/day08_jsp.iml" filepath="$PROJECT_DIR$/day08_jsp/day08_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09_EL/day09_EL.iml" filepath="$PROJECT_DIR$/day09_EL/day09_EL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10_jstl/day10_jstl.iml" filepath="$PROJECT_DIR$/day10_jstl/day10_jstl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java0522.iml" filepath="$PROJECT_DIR$/.idea/java0522.iml" />
+    </modules>
+  </component>
+</project>
